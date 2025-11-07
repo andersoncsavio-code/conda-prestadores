@@ -1,0 +1,1 @@
+import React from 'react'; export default function Admin(){ return (<div style={{padding:20}}><h2>Painel Admin (acesso restrito)</h2><p>Use a exportação CSV disponível na interface principal.</p></div>) }
