@@ -1,0 +1,1 @@
+:root{--brand-red:#d50000;--brand-black:#000;--brand-white:#fff} body{margin:0;font-family:Inter,system-ui,Arial;background:var(--brand-white);color:var(--brand-black);} .leaflet-container{height:60vh;width:100%;}
